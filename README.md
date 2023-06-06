@@ -1,6 +1,6 @@
 # Witaj na moim profilu GitHub! 👋
 
-![Moje zdjęcie]([https://pbs.twimg.com/profile_images/813249288566210565/A6ygJjmU_400x400.jpg](https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif))
+![Mój GIF](https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
 
