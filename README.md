@@ -1,45 +1,36 @@
-# Witaj na moim profilu!
+# Witaj na moim profilu GitHub! 👋
 
-Jestem programistą z zamiłowania, który lubi tworzyć aplikacje internetowe i mobilne. Moje umiejętności to:
+Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
 
-- Języki programowania: Python, JavaScript, Java, C++
-- Frameworki: Django, Flask, React, Angular
-- Bazy danych: MySQL, PostgreSQL, MongoDB
-- Narzędzia: Git, Linux, Docker
+## Moje statystyki na GitHubie
+[![Moje statystyki na GitHubie](https://github-readme-stats.vercel.app/api?username=twoj_username)](https://github.com/anuraghazra/github-readme-stats)
 
-Współpracowałem z wieloma projektami open-source, a także tworzyłem własne projekty, które znajdziesz na moim profilu GitHub.
+## LinkedIn
+Zapraszam do odwiedzenia mojego profilu na LinkedIn: [Mateusz Kuźnia](https://www.linkedin.com/in/moj-profil](https://www.linkedin.com/in/mateusz-ku%C5%BAnia-4174b0269/)
 
-Jeśli chcesz ze mną porozmawiać, to pisz śmiało na mojego maila: [adres e-mail](mailto:mojemail@gmail.com).
 
----
 
-## Projekty
+## Facebook & YouTube
 
-- [Project 1](https://github.com/user/project1) - krótki opis projektu
-- [Project 2](https://github.com/user/project2) - krótki opis projektu
+- [Facebook](https://www.facebook.com/mateusz.kuznia/https://twitter.com/moj-profil)
+- [Youtube]([https://twitter.com/moj-profil](https://www.youtube.com/channel/UCUrs3m-i_YfRowt7f91ksmw))
 
-## Statystyki
+## O mnie
+Cel jest prosty i przejrzysty zarabiać dużo kasy i się rozwijać :D 
 
-![Moje statystyki](https://github-readme-stats.vercel.app/api?username=user&show_icons=true)
+## Moje projekty
+https://github.com/matqza/ProjektZespolowy
+https://github.com/matqza/Projekt-HTML-CSS-PHP-SQL
 
-## Wyróżnienia
+## Umiejętności
+- C#
+- .NET
+- HTML
+- JavaScript
+- CSS
 
-- [Wyróżnienie 1](https://link-do-wyróżnienia-1)
-- [Wyróżnienie 2](https://link-do-wyróżnienia-2)
-
-## Blog
-
-Ostatnie posty z mojego bloga:
-
-- [Post 1](https://link-do-postu-1)
-- [Post 2](https://link-do-postu-2)
-
-## Kontakt
-
-Możesz ze mną skontaktować się poprzez:
-
-- [LinkedIn](https://www.linkedin.com/in/moj-profil)
-- [Twitter](https://twitter.com/moj-profil)
+## Doświadczenie zawodowe
+W trakcie zdobywania :D
 
 ## Kolory
 
