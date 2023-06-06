@@ -1,7 +1,6 @@
 # Witaj na moim profilu GitHub! 👋
 
-![Mój GIF](![image](https://github.com/matqza/matqza/assets/94065807/d79cead2-dd9a-41cb-9427-bac9b58671fb)
-)
+![Moje zdjęcie](https://blog.ortus.ie/hubfs/10%20signs%20youve%20been%20hacked-1.jpg)
 
 
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
