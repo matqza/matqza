@@ -1,5 +1,7 @@
 # Witaj na moim profilu GitHub! 👋
 
+![Moje zdjęcie](https://pbs.twimg.com/profile_images/813249288566210565/A6ygJjmU_400x400.jpg)
+
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
 
 ## Moje statystyki na GitHubie
