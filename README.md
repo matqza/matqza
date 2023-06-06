@@ -12,8 +12,8 @@ Zapraszam do odwiedzenia mojego profilu na LinkedIn: [Mateusz Kuźnia]([https://
 
 ## Facebook & YouTube
 
-- [Facebook](https://www.facebook.com/mateusz.kuznia/https://twitter.com/moj-profil)
-- [YouTube](https://twitter.com/moj-profil](https://www.youtube.com/channel/UCUrs3m-i_YfRowt7f91ksmw)
+- [Facebook]([https://www.facebook.com/mateusz.kuznia/https://twitter.com/moj-profil])
+- [YouTube]([https://twitter.com/moj-profil](https://www.youtube.com/channel/UCUrs3m-i_YfRowt7f91ksmw])
 
 ## O mnie
 Cel jest prosty i przejrzysty zarabiać dużo kasy i się rozwijać :D 
