@@ -3,7 +3,7 @@
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
 
 ## Moje statystyki na GitHubie
-[![Moje statystyki na GitHubie]([![Moje statystyki na GitHubie](https://github-readme-stats.vercel.app/api?username=matqza)](https://github.com/anuraghazra/github-readme-stats)
+[![Moje statystyki na GitHubie](https://github-readme-stats.vercel.app/api?username=matqza)](https://github.com/anuraghazra/github-readme-stats)
 )
 
 ## LinkedIn
