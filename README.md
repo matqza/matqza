@@ -2,6 +2,7 @@
 
 ![Mój GIF](https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
+
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
 
 ## Moje statystyki na GitHubie
