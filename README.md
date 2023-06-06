@@ -7,7 +7,7 @@ Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, Java
 
 ## Moje statystyki na GitHubie
 [![Moje statystyki na GitHubie](https://github-readme-stats.vercel.app/api?username=matqza)](https://github.com/anuraghazra/github-readme-stats)
-)
+
 
 ## LinkedIn
 Zapraszam do odwiedzenia mojego profilu na LinkedIn: [Mateusz Kuźnia](https://www.linkedin.com/in/mateusz-ku%C5%BAnia-4174b0269/)
