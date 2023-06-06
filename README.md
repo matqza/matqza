@@ -1,6 +1,7 @@
 # Witaj na moim profilu GitHub! 👋
 
-![Mój GIF](https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+![Mój GIF](![image](https://github.com/matqza/matqza/assets/94065807/d79cead2-dd9a-41cb-9427-bac9b58671fb)
+)
 
 
 Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, JavaScript i CSS.
