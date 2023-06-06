@@ -6,14 +6,12 @@ Jestem młodym studentem rozwijającym się w technologiach C#, .NET, HTML, Java
 [![Moje statystyki na GitHubie](https://github-readme-stats.vercel.app/api?username=twoj_username)](https://github.com/anuraghazra/github-readme-stats)
 
 ## LinkedIn
-Zapraszam do odwiedzenia mojego profilu na LinkedIn: [Mateusz Kuźnia](https://www.linkedin.com/in/moj-profil](https://www.linkedin.com/in/mateusz-ku%C5%BAnia-4174b0269/)
-
-
+Zapraszam do odwiedzenia mojego profilu na LinkedIn: [Mateusz Kuźnia](https://www.linkedin.com/in/mateusz-ku%C5%BAnia-4174b0269/)
 
 ## Facebook & YouTube
+- [Facebook](https://www.facebook.com/mateusz.kuznia/)
+- [YouTube](https://www.youtube.com/channel/UCUrs3m-i_YfRowt7f91ksmw)
 
-- [Facebook]([https://www.facebook.com/mateusz.kuznia/https://twitter.com/moj-profil])
-- [YouTube](https://twitter.com/moj-profil](https://www.youtube.com/channel/UCUrs3m-i_YfRowt7f91ksmw)
 
 ## O mnie
 Cel jest prosty i przejrzysty zarabiać dużo kasy i się rozwijać :D 
